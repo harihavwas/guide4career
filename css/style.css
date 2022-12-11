@@ -147,7 +147,7 @@ a:focus {
   border: none;
   outline: none;
   color: #ffffff;
-  background-color: #44b89d;
+  background-color: #063547 ;
   border-radius: 100%;
 }
 
@@ -266,7 +266,7 @@ a:focus {
 }
 
 .slider_section .detail-box h5 {
-  color: #1b1b4c;
+  color: #063547;
 }
 
 .slider_section .detail-box h1 {
@@ -279,10 +279,10 @@ a:focus {
 .slider_section .detail-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #1b1b4c;
+  background-color: #063547;
   color: #ffffff;
   border-radius: 45px;
-  border: 1px solid #1b1b4c;
+  border: 1px solid #063547;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   margin-top: 15px;
@@ -290,7 +290,7 @@ a:focus {
 
 .slider_section .detail-box a:hover {
   background-color: transparent;
-  color: #1b1b4c;
+  color: #063547;
 }
 
 .slider_section .img-box img {
